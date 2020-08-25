@@ -1,0 +1,60 @@
+[
+  {
+    "feeId": "5de10511b4fc24478311eda9",
+    "coreId": "5",
+    "core": "TOPAZ",
+    "coop": "0116",
+    "label": "Transferência para outros Bancos",
+    "price": 7.73,
+    "isDefaultPrice": false,
+    "channel": "INTERNET",
+    "group": "TRANSFERENCIA"
+  },
+  {
+    "feeId": "5e8c869a46e0fb0001e30f0b",
+    "coreId": "0",
+    "core": "TOPAZ",
+    "coop": "0116",
+    "label": "Extrato",
+    "price": 2,
+    "isDefaultPrice": false,
+    "channel": "ATM_24H",
+    "group": "EXTRATO"
+  },
+  {
+    "feeId": "5de105a3b4fc24478311edaa",
+    "coreId": "3",
+    "core": "TOPAZ",
+    "coop": "0116",
+    "label": "Saque Autoatendimento Sicredi",
+    "price": 5,
+    "isDefaultPrice": false,
+    "channel": "ATM_SICREDI",
+    "group": "SAQUE"
+  },
+  {
+    "feeId": "5de10460b4fc24478311eda7",
+    "coreId": "2",
+    "core": "TOPAZ",
+    "coop": "0116",
+    "label": "Transferência entre contas Sicredi",
+    "price": 0,
+    "isDefaultPrice": false,
+    "channel": "INTERNET",
+    "group": "TRANSFERENCIA"
+  },
+  {
+    "feeId": "5de105ccb4fc24478311edab",
+    "coreId": "4",
+    "core": "TOPAZ",
+    "coop": "0116",
+    "label": "Saque Rede 24H",
+    "price": 5,
+    "isDefaultPrice": true,
+    "channel": "ATM_24H",
+    "group": "SAQUE"
+  }
+]
+
+
+

@@ -1,0 +1,51 @@
+{
+  "transactionId": "123",
+  "productTransaction": "MONTHLY_FEE_DISCOUNT",
+  "accountNumber": "3308073",
+  "accountType": "INDIVIDUAL_CHECKING_ACCOUNT",
+  "monthlyFeeId": "2",
+  "coop": "0155",
+  "brand": "WOOP",
+  "customerId": "00037477005",
+  "applicableAt": "ASSOCIATE_MONTHLY_FEE",
+  "benefitStatus": "AVAILABLE",
+  "benefitValue": 80,
+  "benefitValueType": "PERCENTAGE",
+  "benefitCompetence": "2020-06",
+  "matchedBenefits": [
+    {
+      "id": "5ed67c1ccff47e0001612859",
+      "name": "CREDIT_CARD_45_OFF",
+      "brand": "WOOP",
+      "productType": "CREDIT_CARD",
+      "productId": "4",
+      "monthlyFeeId": "2",
+      "applicableAt": "ASSOCIATE_MONTHLY_FEE",
+      "status": "ACTIVATED",
+      "investmentAmount": 100,
+      "investmentPeriod": 1,
+      "value": 45,
+      "valueType": "PERCENTAGE",
+      "validity": {
+        "begin": "2020-03"
+      }
+    },
+    {
+      "id": "5ed67c53cff47e000161285a",
+      "name": "INVESTMENT_35_OFF",
+      "brand": "WOOP",
+      "productType": "INVESTMENT",
+      "productId": "53",
+      "monthlyFeeId": "2",
+      "applicableAt": "ASSOCIATE_MONTHLY_FEE",
+      "status": "ACTIVATED",
+      "investmentAmount": 1500,
+      "investmentPeriod": 1,
+      "value": 35,
+      "valueType": "PERCENTAGE",
+      "validity": {
+        "begin": "2020-03"
+      }
+    }
+  ]
+}
